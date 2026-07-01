@@ -25,7 +25,7 @@ Built with **HTML, CSS, and JavaScript**.
 ## 🌐 Live Demo
 [👉 Try it here](https://xyzvikram.github.io/crypto-price-tracker/)
 
----46464664
+---4646466
 
 ## ⭐ Support
 If you like this project, don’t forget to **star** ⭐ the repository!
