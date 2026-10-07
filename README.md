@@ -15,7 +15,7 @@ Built with **HTML, CSS, and JavaScript**.
 
 ## 📂 Project Structure
 
----4564
+---456
 
 ## 📸 Screenshot
 ![Crypto Tracker Screenshot](screenshot.png)
